@@ -1,0 +1,2 @@
+FROM  ramdassbhanage/Globallogic1:global
+ADD . /var/www/html
